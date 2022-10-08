@@ -21,18 +21,31 @@ Create a `story.twee` file in your folder.
 
 Create inside that file a Starting block:
 
-```
+````
 :: Start
 This is my first Twine page
-```
+````
 
-Convert your Twee file into a working webpage.
+Convert this Twee file into a working webpage:
+
+````
+./tweego -o index.html story.twee
+````
 
 ### How To Compile Multiple Files Into a Single Page
-This project uses `story.twee` and a folder containing multiple `*.twee` files. Here is how to compile all those files into one single Twine project:
+This project uses `story.twee` and a folder names `passages` containing multiple `*.twee` files. Here is how to compile all those files into one single Twine project:
 
 From the command line, type:
 
 ````
 ./tweego -o index.html story.twee passages
 ````
+
+### Watch Mode
+This will automatically watch the folder for changes, and automatically change your web page:
+
+````
+./tweego -w -o index.html story.twee passages
+````
+
+To stop this "watch mode", as it says in the console, type `CTRL+C` keys.
