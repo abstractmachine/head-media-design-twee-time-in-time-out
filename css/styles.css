@@ -1,0 +1,24 @@
+.has-content {
+	display: none;
+}
+
+#backdrop {
+	background-color: white;
+}
+
+header {
+	display: none;
+}
+
+footer.has-content {
+	display: none !important;
+}
+
+#page {
+	box-shadow: none;
+	background-color: transparent;
+}
+
+#page {
+	font-family: hkgrotesk;
+}
