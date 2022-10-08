@@ -1,0 +1,23 @@
+:: StoryTitle
+Really Shitty story
+
+:: StoryData
+{
+        "ifid": "61DE5745-D9D7-4D0D-B58F-9182DA8774A8",
+		"format": "Chapbook",
+		"format-version": "1.0.0"
+}
+
+:: Start
+Hello world! Let's go to [[first page->one]] or [[second page->two]] 
+
+:: one
+This is page one
+
+Go back to [[Start]]
+
+:: two
+This is page two
+<img src="images/intime.jpg">
+
+Go back to [[Start]]
