@@ -48,4 +48,4 @@ This will automatically watch the folder for changes, and automatically change y
 ./tweego -w -o index.html story.twee passages
 ````
 
-To stop this "watch mode", as it says in the console, type `CTRL+C` keys.
+To stop this "watch mode", as it says in the console, type the `CTRL` + `C` keys.
