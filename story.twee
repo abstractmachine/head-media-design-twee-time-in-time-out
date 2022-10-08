@@ -1,5 +1,5 @@
 :: StoryTitle
-Really Shitty story
+Time In Time Out
 
 :: StoryData
 {
@@ -9,15 +9,22 @@ Really Shitty story
 }
 
 :: Start
-Hello world! Let's go to [[first page->one]] or [[second page->two]] 
+Time-in-Time-out
+Playable stories for our wrists 
 
-:: one
-This is page one
+Atelier Media Design 1, Master Media Design 2022
+Professors: Alexia Mathieu, Douglas Edric Stanley
+Assistant: Nicolas Baldran, Cyrus Khalatbari
+Students: MD1
 
-Go back to [[Start]]
+- Dates: from 19.10.2022 to 18.01.2023 (see MD calendar)
+- Mid-crits: 29.11.2002 and 22.12.202
+- Final jury: 18.01.2022 with external guests
 
-:: two
-This is page two
-<img src="images/intime.jpg">
+[[START->Go]]
 
-Go back to [[Start]]
+:: Go
+- [[Brief]]
+- [[About Time Devices->About-Time-Devices]]
+- [[Time-Shapes]]
+- [[Why do I @#$% care?->Why]]

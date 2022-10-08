@@ -1,6 +1,6 @@
 # Project Time In Time Out
 ## Master Media Design, HEAD – Genève
-## Alexia Mathieu & Douglas Edric Stanley
+## [Alexia Mathieu](https://www.hesge.ch/head/annuaire/alexia-mathieu) & [Douglas Edric Stanley](http://abstractmachine.net)
 
 ### What Is This
 This is our Twee (a.k.a. Twine) slideshow shown in the first day of class.
@@ -27,3 +27,12 @@ This is my first Twine page
 ```
 
 Convert your Twee file into a working webpage.
+
+### How To Compile Multiple Files Into a Single Page
+This project uses `story.twee` and a folder containing multiple `*.twee` files. Here is how to compile all those files into one single Twine project:
+
+From the command line, type:
+
+````
+./tweego -o index.html story.twee passages
+````
