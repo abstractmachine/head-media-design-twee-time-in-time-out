@@ -10,9 +10,11 @@ First download [Tweego](http://www.motoslave.net/tweego/) files somewhere onto y
 
 Create a folder for your Twee project somewhere on your machine.
 
-Copy from the Tweego folder, the `tweego` file and `storyformats` folder, into your `SomeAwesomeName` folder.
+From the Tweego folder, copy both the `tweego` file and the `storyformats` folder into your new `SomeAwesomeName` folder.
 
-Open this folder in [VS Code](https://code.visualstudio.com). In VS Code install the [Twee 3 Language Tools](https://marketplace.visualstudio.com/items?itemName=cyrusfirheir.twee3-language-tools) extension (just click on that link, it will open VS Code).
+Open this folder in [VS Code](https://code.visualstudio.com). In VS Code install the [Twee 3 Language Tools](https://marketplace.visualstudio.com/items?itemName=cyrusfirheir.twee3-language-tools) extension (just click on the link, it will open VS Code).
+
+Install the [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for VS Code. This will allow you to test your Twine stories directly in the browser of your choice, and will reload this page each time you save a change inside the project folder.
 
 ### Make tweego and executable command
 Open a Terminal in VS Code: `Menu` > `Terminal` > `New Terminal`. Make the `tweego` file executable with this command in the Terminal: `chmod 755 tweego`.
