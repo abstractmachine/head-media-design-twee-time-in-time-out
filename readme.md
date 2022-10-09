@@ -11,7 +11,7 @@ This is our Twee (a.k.a. Twine) presentation shown in the first day of class.
 If you just want to play this presentation without changing anything, you can download the [latest release](https://github.com/abstractmachine/head-media-design-twee-time-in-time-out/releases/latest/) and open the `index.html` file (`Menu` > `File` > `Open File`) in your local browser.
 
 ### Local server
-If your browser doesn't want to play nicely with this presentation, open this project folder in VS Code and run the Live Server's `Go Live` command (cf. bottom left of your code window).
+If your browser doesn't want to play nicely with this presentation, open this project folder in VS Code and run the [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)'s `Go Live` command (cf. bottom left of your code window).
 
 ---
 
