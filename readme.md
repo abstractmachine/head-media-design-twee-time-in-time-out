@@ -16,7 +16,7 @@ Open this folder in [VS Code](https://code.visualstudio.com). In VS Code install
 
 Open a Terminal in VS Code: `Menu` > `Terminal` > `New Terminal`. Make the `tweego` file executable with this command in the Terminal: `chmod 755 tweego`.
 
-### How To Use
+### How To Use (easy mode)
 Create a `story.twee` file in your folder.
 
 Create inside that file a Starting block:
@@ -32,20 +32,20 @@ Convert this Twee file into a working webpage:
 ./tweego -o index.html story.twee
 ````
 
-### How To Compile Multiple Files Into a Single Page
-This project uses `story.twee` and a folder names `passages` containing multiple `*.twee` files. Here is how to compile all those files into one single Twine project:
+### How To Compile Multiple Files Into a Single Page (fancy mode)
+This project uses `story.twee`, styles files in the `styles`folder, and a folder named `passages` containing multiple `*.twee` files. Here is how to compile all those files into one single Twine project:
 
 From the command line, type:
 
 ````
-./tweego -o index.html story.twee passages
+./tweego -o index.html story.twee passages css
 ````
 
 ### Watch Mode
 This will automatically watch the folder for changes, and automatically change your web page:
 
 ````
-./tweego -w -o index.html story.twee passages
+./tweego -w -o index.html story.twee passages css
 ````
 
 To stop this "watch mode", as it says in the console, type the `CTRL` + `C` keys.
