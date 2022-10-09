@@ -1,26 +1,6 @@
 :root {
 	--light-gray: rgba(0.5, 0.5, 0.5, 0.1);
-  }
-
-.has-content {
-	display: none;
-}
-
-header {
-	display: none;
-}
-
-#page {
-	box-shadow: none;
-	background-color: transparent;
-}
-
-#backdrop {
-	background-color: transparent;
-}
-
-#page article {
-	background-color: transparent;
+	--border-width: 1.5px;
 }
 
 #page a {
@@ -36,10 +16,6 @@ header {
 	padding-right: 0.25em;
 	margin-right: -0.25em;
 }
-
-/* #page li {
-
-} */
 
 #page ul {
 	list-style: none;
@@ -62,35 +38,6 @@ header {
 
 #page no-break li:not(:last-child) {
 	margin-right: 0.5em;
-}
-
-/* #page footer {
-
-} */
-
-#page footer.has-content {
-	/* display: none !important; */
-	border-top: 1px solid var(--light-gray);
-	color: rgba(0.5, 0.5, 0.5, 0.2);
-	font-size: 1em;
-}
-
-#page footer.has-content a {
-	color: var(--light-gray);
-	background-color: transparent;
-}
-
-#page footer div.left p em {
-	font-style: normal;
-}
-
-#page footer div.right p a {
-	font-style: normal;
-	text-transform: none;
-	color: var(--light-gray);
-	letter-spacing: normal;
-	font-size: inherit;
-	/* border-bottom: var(--light-gray) dotted; */
 }
 
 #page center {
@@ -146,6 +93,7 @@ header {
 
 #page corner {
 	z-index: 1000;
+	font-size: 0.8em;
 	position: absolute;
     bottom: 0%;
     right: 0%;

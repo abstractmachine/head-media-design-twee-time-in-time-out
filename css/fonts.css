@@ -2,12 +2,48 @@
 	font-family: hkgrotesk;
 	font-size: 3.0vh;
 	padding: 0;
+	line-height: 1.3em;
 }
 
 code {
 	font-family: fragment, monospace;
 	font-size: 0.8em;
 	font-weight: bold;
+}
+
+.small-caps {
+	font-family: hkgrotesk;
+	font-weight: 500;
+	font-size: 0.8em;
+}
+
+span.small-caps strong {
+	font-family: hkgrotesk;
+	font-weight: 900;
+	font-size: 2.0em;
+	line-height: 1.0em;
+}
+
+span.small-caps em {
+	font-family: hkgrotesk;
+	font-weight: 900;
+	font-style: italic;
+	font-size: 2.0em;
+	line-height: 1.0em;
+}
+
+footer p {
+	font-size: 0.8em;
+	font-weight: 500;
+}
+
+#page em {
+	font-weight: 300;
+}
+
+footer em {
+	font-size: 0.95em;
+	font-weight: 500 !important;
 }
 
 @font-face {

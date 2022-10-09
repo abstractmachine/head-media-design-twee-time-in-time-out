@@ -200,12 +200,48 @@
 	font-family: hkgrotesk;
 	font-size: 3.0vh;
 	padding: 0;
+	line-height: 1.3em;
 }
 
 code {
 	font-family: fragment, monospace;
 	font-size: 0.8em;
 	font-weight: bold;
+}
+
+.small-caps {
+	font-family: hkgrotesk;
+	font-weight: 500;
+	font-size: 0.8em;
+}
+
+span.small-caps strong {
+	font-family: hkgrotesk;
+	font-weight: 900;
+	font-size: 2.0em;
+	line-height: 1.0em;
+}
+
+span.small-caps em {
+	font-family: hkgrotesk;
+	font-weight: 900;
+	font-style: italic;
+	font-size: 2.0em;
+	line-height: 1.0em;
+}
+
+footer p {
+	font-size: 0.8em;
+	font-weight: 500;
+}
+
+#page em {
+	font-weight: 300;
+}
+
+footer em {
+	font-size: 0.95em;
+	font-weight: 500 !important;
 }
 
 @font-face {
@@ -365,11 +401,7 @@ code {
 	src:  url('css/fonts/HKGrotesk-BlackItalic.woff2') format('woff2'),
 		  url('css/fonts/HKGrotesk-BlackItalic.woff') format('woff');
 }
-/* twine-user-stylesheet #40: "styles.css" */
-:root {
-	--light-gray: rgba(0.5, 0.5, 0.5, 0.1);
-  }
-
+/* twine-user-stylesheet #40: "reset.css" */
 .has-content {
 	display: none;
 }
@@ -378,17 +410,51 @@ header {
 	display: none;
 }
 
+#backdrop {
+	background-color: transparent;
+}
+
+footer p {
+	margin-top: 0 !important;
+}
+
 #page {
 	box-shadow: none;
 	background-color: transparent;
 }
 
-#backdrop {
+#page article {
 	background-color: transparent;
 }
 
-#page article {
+#page footer.has-content {
+	/* display: none !important; */
+	border-top: var(--border-width) solid var(--light-gray);
+	color: rgba(0.5, 0.5, 0.5, 0.2);
+	font-size: 1em;
+}
+
+#page footer.has-content a {
+	color: var(--light-gray);
 	background-color: transparent;
+}
+
+#page footer div.left p em {
+	font-style: normal;
+}
+
+#page footer div.right p a {
+	font-style: normal;
+	text-transform: none;
+	color: var(--light-gray);
+	letter-spacing: normal;
+	font-size: inherit;
+	/* border-bottom: var(--light-gray) dotted; */
+}
+/* twine-user-stylesheet #41: "styles.css" */
+:root {
+	--light-gray: rgba(0.5, 0.5, 0.5, 0.1);
+	--border-width: 1.5px;
 }
 
 #page a {
@@ -404,10 +470,6 @@ header {
 	padding-right: 0.25em;
 	margin-right: -0.25em;
 }
-
-/* #page li {
-
-} */
 
 #page ul {
 	list-style: none;
@@ -430,35 +492,6 @@ header {
 
 #page no-break li:not(:last-child) {
 	margin-right: 0.5em;
-}
-
-/* #page footer {
-
-} */
-
-#page footer.has-content {
-	/* display: none !important; */
-	border-top: 1px solid var(--light-gray);
-	color: rgba(0.5, 0.5, 0.5, 0.2);
-	font-size: 1em;
-}
-
-#page footer.has-content a {
-	color: var(--light-gray);
-	background-color: transparent;
-}
-
-#page footer div.left p em {
-	font-style: normal;
-}
-
-#page footer div.right p a {
-	font-style: normal;
-	text-transform: none;
-	color: var(--light-gray);
-	letter-spacing: normal;
-	font-size: inherit;
-	/* border-bottom: var(--light-gray) dotted; */
 }
 
 #page center {
@@ -514,25 +547,26 @@ header {
 
 #page corner {
 	z-index: 1000;
+	font-size: 0.8em;
 	position: absolute;
     bottom: 0%;
     right: 0%;
 	color: grey;
 	mix-blend-mode: difference;
-}</style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Start" tags="" position="100,100" size="100,100">- **Time In Time Out**
-- *Playable stories for our wrists*
+}</style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Start" tags="" position="100,100" size="100,100">- ~~**Time In Time Out**~~
+- ~~*Playable stories for our wrists*~~
 
 
 - Atelier Media Design 1
 - Master Media Design 2022
-- Professors: Alexia Mathieu, Douglas Edric Stanley
-- Assistant: Nicolas Baldran, Cyrus Khalatbari
+- Professors: [[Alexia Mathieu-&gt;https://www.hesge.ch/head/annuaire/alexia-mathieu]] &amp; [[Douglas Edric Stanley-&gt;http://abstractmachine.net]]
+- Assistant: [[Nicolas Baldran-&gt;https://www.hesge.ch/head/annuaire/nicolas-baldran]], [[Cyrus Khalatbari-&gt;https://studio.cyruskhalatbari.com]]
 - Students: MD1
 
 
-- Dates: from &lt;code&gt;19.10.2022&lt;/code&gt; to &lt;code&gt;18.01.2023&lt;/code&gt; (cf. MD calendar)
-- Mid-crits: &lt;code&gt;29.11.2002&lt;/code&gt; and &lt;code&gt;22.12.2022&lt;/code&gt;
-- Final jury: &lt;code&gt;18.01.2022&lt;/code&gt; with external guests
+- Dates: from `19.10.2022` to `18.01.2023` (cf. MD calendar)
+- Mid-crits: `29.11.2002` and `22.12.2022`
+- Final jury: `18.01.2022` with external guests
 
 &lt;corner&gt;[[Start-&gt;Home]]&lt;/corner&gt;</tw-passagedata><tw-passagedata pid="2" name="Home" tags="" position="225,100" size="100,100">- [[Brief]]
 - [[About Time Devices-&gt;About]]

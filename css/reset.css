@@ -1,0 +1,49 @@
+.has-content {
+	display: none;
+}
+
+header {
+	display: none;
+}
+
+#backdrop {
+	background-color: transparent;
+}
+
+footer p {
+	margin-top: 0 !important;
+}
+
+#page {
+	box-shadow: none;
+	background-color: transparent;
+}
+
+#page article {
+	background-color: transparent;
+}
+
+#page footer.has-content {
+	/* display: none !important; */
+	border-top: var(--border-width) solid var(--light-gray);
+	color: rgba(0.5, 0.5, 0.5, 0.2);
+	font-size: 1em;
+}
+
+#page footer.has-content a {
+	color: var(--light-gray);
+	background-color: transparent;
+}
+
+#page footer div.left p em {
+	font-style: normal;
+}
+
+#page footer div.right p a {
+	font-style: normal;
+	text-transform: none;
+	color: var(--light-gray);
+	letter-spacing: normal;
+	font-size: inherit;
+	/* border-bottom: var(--light-gray) dotted; */
+}
