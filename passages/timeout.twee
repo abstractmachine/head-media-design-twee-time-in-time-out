@@ -1,15 +1,20 @@
 :: Time Out
 Let's take a time out.
 
-[[Tuttuki Bako->Time-Out-Tuttuki-Bako]]
-[[Something else->Time-Out-Some-Other-Thing]]
+[[Tuttuki Bako->Time-Out-Tuttuki-Bako]] | [[In Time->Time-Out-In-Time]]
+
+<corner>[[Home]]</corner>
 
 :: Time-Out-Tuttuki-Bako
-Illustr. Tuttuki Bako virtual finger, Bandai.
 
-[[Home]]
+<corner>Tuttuki Bako, Virtual finger, Bandai | [[Time Out]]</corner>
 
-:: Time-Out-Some-Other-Thing
-<img src="images/intime.jpg">
+<video autoplay loop src="videos/tuttuki-bako-edit.mp4">
 
-[[Home]]
+:: Time-Out-In-Time
+
+<img class="fullscreen" src="images/intime.jpg">
+
+<center>TIMECODE</center>
+
+<corner>In Time, movie | [[Time Out]]</corner>

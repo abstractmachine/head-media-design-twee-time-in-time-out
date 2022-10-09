@@ -1,17 +1,13 @@
+:root {
+	--light-gray: rgba(0.5, 0.5, 0.5, 0.1);
+  }
+
 .has-content {
 	display: none;
 }
 
-#backdrop {
-	background-color: white;
-}
-
 header {
 	display: none;
-}
-
-footer.has-content {
-	display: none !important;
 }
 
 #page {
@@ -19,6 +15,140 @@ footer.has-content {
 	background-color: transparent;
 }
 
-#page {
-	font-family: hkgrotesk;
+#backdrop {
+	background-color: transparent;
+}
+
+#page article {
+	background-color: transparent;
+}
+
+#page a {
+	color: red;
+	text-decoration: none;
+}
+
+#page a:hover, #page footer.has-content a:hover {
+	color: white;
+	background-color: red;
+	padding-left: 0.25em;
+	margin-left: -0.25em;
+	padding-right: 0.25em;
+	margin-right: -0.25em;
+}
+
+/* #page li {
+
+} */
+
+#page ul {
+	list-style: none;
+}
+  
+#page ul li::before {
+	content: "\2635";
+	color: var(--light-gray);
+	font-weight: bold;
+	display: inline-block;
+	width: 1em;
+	margin-left: -1em;
+	font-size: 0.75em;
+	transform: translate(-0.25em, -0.15em);
+}
+
+#page no-break ul li {
+	display: inline-block;
+}
+
+#page no-break li:not(:last-child) {
+	margin-right: 0.5em;
+}
+
+/* #page footer {
+
+} */
+
+#page footer.has-content {
+	/* display: none !important; */
+	border-top: 1px solid var(--light-gray);
+	color: rgba(0.5, 0.5, 0.5, 0.2);
+	font-size: 1em;
+}
+
+#page footer.has-content a {
+	color: var(--light-gray);
+	background-color: transparent;
+}
+
+#page footer div.left p em {
+	font-style: normal;
+}
+
+#page footer div.right p a {
+	font-style: normal;
+	text-transform: none;
+	color: var(--light-gray);
+	letter-spacing: normal;
+	font-size: inherit;
+	/* border-bottom: var(--light-gray) dotted; */
+}
+
+#page center {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+	font-weight: 200;
+	font-size: 15vw;
+	line-height: 15vw;
+	color: grey;
+	mix-blend-mode: difference;
+}
+
+#page center:not(:hover) {
+	opacity: 0.0;
+}
+
+#page center:hover {
+	opacity: 1.0;
+	cursor: none;
+}
+
+#page video {
+	z-index: -1000;
+    position: fixed;
+	opacity: 1.0;
+	top: 5vw;
+	left: 5vw;
+	max-width: 100%;
+	height: auto;
+    object-fit: contain;
+}
+
+#page video::-webkit-media-controls-panel {
+	display: none !important;
+	opacity: 1 !important;
+}
+
+#page img.fullscreen {
+	z-index: -1;
+    position: fixed;
+	top: 0;
+	left: 0;
+	/* Preserve aspet ratio */
+	min-height: 100%;
+	width: auto;
+    overflow: auto;
+    -o-object-fit: cover;
+    object-fit:cover;
+}
+
+#page corner {
+	z-index: 1000;
+	position: absolute;
+    bottom: 0%;
+    right: 0%;
+	color: grey;
+	mix-blend-mode: difference;
 }

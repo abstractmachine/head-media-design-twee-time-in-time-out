@@ -1,3 +1,28 @@
+#page {
+	font-family: hkgrotesk;
+	font-size: 3.0vh;
+	padding: 0;
+}
+
+code {
+	font-family: fragment, monospace;
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: fragment;
+	font-style: normal;
+	font-weight: normal;
+	src: url('css/fonts/FragmentMono-Regular.woff2')
+}
+
+@font-face {
+	font-family: fragment;
+	font-style: italic;
+	font-weight: normal;
+	src: url('css/fonts/FragmentMono-Italic.woff2')
+}
 
 @font-face {
 	font-family: hkgrotesk;

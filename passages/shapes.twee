@@ -1,52 +1,52 @@
 :: Shapes
 Some interresting time shapes:
 
-- [[Swiss Time + .beat time->Shapes-Beat]]
-- [[Le sucre de Bergson->Shapes-Bergson]] / Duration / sucre qui fond / Lifeline
-- [[Retentions, Impressions, Protensions->Shapes-Elastic]]
+- [[.beat time->Shapes-Beat]]
+- [[Le sucre->Shapes-Bergson]]
+- [[Retention > Impression > Protension->Shapes-Elastic]]
 - [[Poop Time->Shapes-Poop]]
 - [[Groundhog Day->Shapes-Loop]]
 
-[[Home]]
+<corner>[[Home]]</corner>
 
 :: Shapes-Bergson
-Something about the sucre de Bergson
+Something about the sucre de Bergson / Duration / sucre qui fond / Lifeline
 
-[[Time Shapes->Shapes]]
+<corner>[[Time Shapes->Shapes]]</corner>
 
 :: Shapes-Beat
 Chronological time
 
 / Chronological / tic toc / Discretisation
 
-[[Time Shapes->Shapes]]
+<corner>[[Time Shapes->Shapes]]</corner>
 
 :: Shapes-Elastic
 Rétention temporelle (Husserl) / Elastic
 
-[[Time Shapes->Shapes]]
+<corner>[[Time Shapes->Shapes]]</corner>
 
 :: Shapes-Elastic-A
 Intro about Elastic Time
 
-[[Time Shapes->Shapes]]
+<corner>[[Time Shapes->Shapes]]</corner>
 
 :: Shapes-Elastic-B
 Something else about Elastic Time
 
-[[Time Shapes->Shapes]]
+<corner>[[Time Shapes->Shapes]]</corner>
 
 :: Shapes-Elastic-C
 Conclusion about Elastic Time
 
-[[Time Shapes->Shapes]]
+<corner>[[Time Shapes->Shapes]]</corner>
 
 :: Shapes-Poop
 Poop Time / Temps biologique / iTamagochi
 
-[[Time Shapes->Shapes]]
+<corner>[[Time Shapes->Shapes]]</corner>
 
 :: Shapes-Loop
 Groundhog Day / Time loop / Ouroboros / Every Day The Same Dream
 
-[[Time Shapes->Shapes]]
+<corner>[[Time Shapes->Shapes]]</corner>
