@@ -6,7 +6,7 @@
 This is our Twee (a.k.a. Twine) presentation shown in the first day of class.
 
 ### Play This Presentation
-If you just want to play this presentation without changing anything, you can download the latest release and open the `index.html` file (`Menu` > `File` > `Open File`) in your local browser.
+If you just want to play this presentation without changing anything, you can download the [latest release](https://github.com/abstractmachine/head-media-design-twee-time-in-time-out/releases/latest/) and open the `index.html` file (`Menu` > `File` > `Open File`) in your local browser.
 
 ### Local server
 If your browser doesn't want to play nicely with this presentation, you can transform the project folder into a local server. In your Terminal, navigate to the folder of this project :
