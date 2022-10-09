@@ -5,11 +5,15 @@
 ### What Is This?
 This is our Twee (a.k.a. Twine) presentation shown in the first day of class.
 
+---
+
 ### Play This Presentation
 If you just want to play this presentation without changing anything, you can download the [latest release](https://github.com/abstractmachine/head-media-design-twee-time-in-time-out/releases/latest/) and open the `index.html` file (`Menu` > `File` > `Open File`) in your local browser.
 
 ### Local server
 If your browser doesn't want to play nicely with this presentation, open this project folder in VS Code and run the Live Server's `Go Live` command (cf. bottom left of your code window).
+
+---
 
 ### Watch Mode
 We can let `Tweego` run in the background and build our project for us automatically whenever we make a change. I.e. `Tweego` will constantly watch the folder for changes, and automatically rebuild your project for you. If you are running `LiveServer` via the `Go Live` command, your project will immediately be updated in your browser on any save of any file in the project. To run this constant "Watch Mode", run the following command in your Terminal:
@@ -19,6 +23,8 @@ We can let `Tweego` run in the background and build our project for us automatic
 ````
 
 To stop this "watch mode", do as it says in the console: type the `CTRL` + `C` keys.
+
+---
 
 ### How To Create A Twee Project From Scratch
 This project has already configured everything for you. If you want, you can also create a project from scratch. 
@@ -66,6 +72,8 @@ Here is how to compile all those files into one single Twine project. Open the T
 ````
 ./tweego -o index.html story.twee passages css
 ````
+
+---
 
 ### To Do
 - Add video controls
