@@ -1,12 +1,12 @@
 :: About
 Over the past 10 years, 
-we have ve been in a complex and intimate relationship with our smartphones.
+we have been in a complex and intimate relationship with our smartphones.
 
 Go to the [[second page->About-Page-Two]]
 [[Home]]
 
 :: About-Page-Two
-<img src="phone-behavior.jpg">
+<img src="images/phone-behavior.jpg">
 
 Go to the [[third page->About-Page-Three]]
 [[Home]]
@@ -28,21 +28,21 @@ Go to the [[fith page->About-Page-Five]]
 [[Home]]
 
 :: About-Page-Five
-<img src="die-with-me.jpg">
+<img src="images/die-with-me.jpg">
 
 Go to the [[six page->About-Page-Six]]
 [[Home]]
 
 :: About-Page-Six 
 Smartphones have become one place for everything, gradually replacing the role of the personal computer. 
-<img src="page-six-computer.jpg">
+<img src="images/page-six-computer.jpg">
 
 Go to the [[seven page->About-Page-Seven]]
 [[Home]]
 
 :: About-Page-Seven
 In the 70s, the personal computer was seen as a way to augment the intellectual abilities of individuals with computer-based technologies.
-<img src="page-seven-apple.jpg">
+<img src="images/page-seven-apple.jpg">
 
 Go to the [[eight page->About-Page-Eight]]
 [[Home]]
@@ -68,7 +68,7 @@ Go to the [[ten page->About-Page-Ten]]
 :: About-Page-Ten
 Smart Personal Objects SPOT, Microsoft hub, 2002
 
-<img src="page-ten-spot.jpg">
+<img src="images/page-ten-spot.jpg">
 
 Go to the [[eleven page->About-Page-Eleven]]
 [[Home]]
@@ -76,7 +76,7 @@ Go to the [[eleven page->About-Page-Eleven]]
 :: About-Page-Eleven
 Fast forward a few decades - since the apparition of digital assistants, and tracking technologies, more and more devices are being added to our homes and our bodies. 
 
-<img src="page-eleven-home.jpg">
+<img src="images/page-eleven-home.jpg">
 
 Go to the [[twelve page->About-Page-Twelve]]
 [[Home]]
@@ -84,7 +84,7 @@ Go to the [[twelve page->About-Page-Twelve]]
 :: About-Page-Twelve
 The next challenge for big corporations is to make the personal network happen - to expand beyond the computer, and beyond the smartphone.
 
-<img src="page-twelve-personal-network.jpg">
+<img src="images/page-twelve-personal-network.jpg">
 
 Go to the [[thirteen page->About-Page-Thirteen]]
 [[Home]]
@@ -96,13 +96,13 @@ Go to the [[fourteen page->About-Page-Fourteen]]
 [[Home]]
 
 :: About-Page-Fourteen
-<img src="page-fourteen-patent-watch.jpg">
+<img src="images/page-fourteen-patent-watch.jpg">
 
 Go to the [[fifteen page->About-Page-Fifteen]]
 [[Home]]
 
 :: About-Page-Fifteen
-<img src="page-fiftenn-hologram-watch.jpg">
+<img src="images/page-fiftenn-hologram-watch.jpg">
 
 Go to the [[sixteen page->About-Page-Sixteen]]
 [[Home]]
@@ -121,14 +121,14 @@ Go to the [[eighteen page->About-Page-Eighteen]]
 [[Home]]
 
 :: About-Page-Eighteen
-<img src="page-eighteen-watch-interface.jpg">
+<img src="images/page-eighteen-watch-interface.jpg">
 
 Go to the [[nineteen page->About-Page-Nineteen]]
 [[Home]]
 
 :: About-Page-Nineteen
 They also come with a new set of gestures
-<img src="page-nineteen-gestures.jpg">
+<img src="images/page-nineteen-gestures.jpg">
 
 Go to the [[twenty page->About-Page-Twenty]]
 [[Home]]
@@ -178,7 +178,7 @@ Go to the [[twentyfive page->About-Page-Twentyfive]]
 
 :: About-Page-Twentyfive
 Vfluencer and Vtubing
-<img src="page-twenty-five-vfluencer.jpg">
+<img src="images/page-twenty-five-vfluencer.jpg">
 
 Go to the [[twentysix page->About-Page-Twentysix]]
 [[Home]]
@@ -187,15 +187,25 @@ Go to the [[twentysix page->About-Page-Twentysix]]
 Wearables and especially wrist-devices have been exiting for a long time already - decades before smartphones 
 HP-01 1977
 
-<img src="page-twenty-six-hp-1977.jpg">
+<img src="images/page-twenty-six-hp-1977.jpg">
 HP-01 1977
+
+Go to the [[twentyseven page->About-Page-Twentysixbis]]
+[[Home]]
+
+:: About-Page-Twentysixbis
+Playdate 
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=HdF3CnFvxg4">
+</iframe>
 
 Go to the [[twentyseven page->About-Page-Twentyseven]]
 [[Home]]
 
 :: About-Page-Twentyseven
 Seiko - data-2000, 1983
-<img src="page-twenty-seven-seiko-2000.png">
+<img src="images/page-twenty-seven-seiko-2000.png">
 
 Go to the [[twentyeight page->About-Page-Twentyeight]]
 [[Home]]
@@ -204,7 +214,7 @@ Go to the [[twentyeight page->About-Page-Twentyeight]]
 Trying yet again to materialise the vision for an augmented human - a personal computer around our wrists.
 Seiko the rupture 1998
 
-<img src="page-twenty-eight-Seiko.jpg">
+<img src="images/page-twenty-eight-Seiko.jpg">
 
 Go to the [[twentynine page->About-Page-Twentynine]]
 [[Home]]
@@ -212,7 +222,7 @@ Go to the [[twentynine page->About-Page-Twentynine]]
 :: About-Page-Twentynine
 SPH WP 10 1999
 
-<img src="page-twenty-nine-SPH.jpg">
+<img src="images/page-twenty-nine-SPH.jpg">
 
 Go to the [[thirty page->About-Page-Thirty]]
 [[Home]]
@@ -220,7 +230,7 @@ Go to the [[thirty page->About-Page-Thirty]]
 :: About-Page-Thirty
 Steve Mann first smartwatch 1998 
 
-<img src="page-thrity-steve-mann.png"> 
+<img src="images/page-thrity-steve-mann.png"> 
 
 Go to the [[thirtyone page->About-Page-Thirtyone]]
 [[Home]]
@@ -230,7 +240,7 @@ Go to the [[thirtyone page->About-Page-Thirtyone]]
 our heroes’ wrists were the icons of space-age futurism
 Captain Kirk, smartwatch
 
-<img src="page-thirty-one-start-trek.jpg"> 
+<img src="images/page-thirty-one-start-trek.jpg"> 
 
 Go to the [[thirtytwo page->About-Page-Thirtytwo]]
 [[Home]]
@@ -238,14 +248,14 @@ Go to the [[thirtytwo page->About-Page-Thirtytwo]]
 :: About-Page-Thirtytwo
 the Jetsons
 
-<img src="page-thirty-two-jestsons.jpg"> 
+<img src="images/page-thirty-two-jestsons.jpg"> 
 
 Go to the [[thirtythree page->About-Page-Thirtythree]]
 [[Home]]
 
 :: About-Page-Thirtythree
 Sailor Moon
-<img src="page-thirty-sailor.jpg"> 
+<img src="images/page-thirty-sailor.jpg"> 
 
 Go to the [[thirtyfour page->About-Page-Thirtyfour]]
 [[Home]]
@@ -253,7 +263,7 @@ Go to the [[thirtyfour page->About-Page-Thirtyfour]]
 :: About-Page-Thirtyfour
 Ultimate spyware 
 
-<img src="page-thirty-four-spy.jpg"> 
+<img src="images/page-thirty-four-spy.jpg"> 
 
 Go to the [[thirtyfive page->About-Page-Thirtyfive]]
 [[Home]]
@@ -267,13 +277,13 @@ Go to the [[thirtysix page->About-Page-Thirtysix]]
 [[Home]]
 
 :: About-Page-Thirtysix
-<img src="page-thirty-six-joy-con.jpg"> 
+<img src="images/page-thirty-six-joy-con.jpg"> 
 
 Go to the [[thirtyseven page->About-Page-Thirtyseven]]
 [[Home]]
 
 :: About-Page-Thirtyseven
-<img src="page-thirty-seven-alt-ctlr.jpg"> 
+<img src="images/page-thirty-seven-alt-ctlr.jpg"> 
 
 Go to the [[thirtyeight page->About-Page-Thirtyeight]]
 [[Home]]
@@ -296,11 +306,18 @@ src="https://www.youtube.com/watch?v=71u6S7qRFiA&feature=youtu.be">
 Go to the [[forty page->About-Page-Forty]]
 [[Home]]
 
-:: About-Page-Forty 
-<img src="page-forty-nivose.jpg"> 
+:: About-Page-Fortyone
+<img src="images/page-forty-nivose.jpg"> 
 
-Go to the [[fortyone page->About-Page-Fortyone]]
+Go to the [[fortyone page->About-Page-Fortytwo]]
 [[Home]]
+
+:: About-Page-Fortyonetwo
+Hyphen Labs 
+<img src="images/page-forty-two-hyphenlabs.jpg"> 
+
+:: About-Page-Fortythree
+
 
 :: About-Page-Fortyone
 As interaction designers, we are often task to create future devices, interactions and scenarios. In this project, we will invent our own wrist devices. Trying to imagine new gestures, new ways to interact with them and place them on our bodies. 
@@ -315,11 +332,10 @@ Go to the [[fortythree page->About-Page-Fortythree]]
 [[Home]]
 
 :: About-Page-Fortythree
-What kind of new gestures can we invent?
 
-How can we rethink our interactions with an object and with our body, using time as a game mechanism?
-
-How to transform time passing into a playable story?
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=goXh7cGpAII&feature=emb_title">
+</iframe>
 
 Go to the [[Home]]
 
