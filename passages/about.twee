@@ -5,7 +5,7 @@ we have been in a complex and intimate relationship with our smartphones.
 <corner>[[Next->About-Page-Two]] | [[Home]]</corner>
 
 :: About-Page-Two
-<img src="images/page-two-phone.jpg">
+<img class="fullscreen" src="images/page-two-phone.jpg">
 
 <corner>[[Next->About-Page-Three]] | [[Home]]</corner>
 
