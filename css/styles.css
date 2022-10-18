@@ -77,6 +77,12 @@
     object-fit: contain; */
 }
 
+#page video.vertical {
+	height: 85vh !important;
+	width: auto;
+	object-fit: contain;
+}
+
 #page video.letterbox {
 	max-width:100%;
 }

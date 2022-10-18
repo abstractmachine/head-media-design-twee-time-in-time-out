@@ -1,7 +1,7 @@
 :: Shapes
 Time has many shapes. Here are some interresting time shapes:
 
-[[.beat time->Shapes-Beat]] | [[Le sucre->Shapes-Bergson]] | [[Retention->Shapes-Retention]] | [[Poop Time->Shapes-Poop]] | [[Groundhog Day->Shapes-Loop]] | [[Real Time->Shapes-Real-Time]] | [[Slow Real Time->Slow-Real-Time]] | [[Relativity->Shapes-Relativity]] | [[Dasein->Shapes-Dasein]] | [[This Mortal Coil->Shapes-Mortal-Coil]] | [[Circadian->Shapes-Circadian]]
+[[Le sucre->Shapes-Bergson]] | [[Real Time->Shapes-Real-Time]] | [[Slow Real Time->Slow-Real-Time]] | [[.beat time->Shapes-Beat]] | [[Groundhog Day->Shapes-Loop]] | [[Relativity->Shapes-Relativity]] | [[Retention->Shapes-Retention]] | [[Dasein->Shapes-Dasein]] | [[This Mortal Coil->Shapes-Mortal-Coil]] | [[Circadian->Shapes-Circadian]] | [[Poop Time->Shapes-Poop]]
 
 <corner>[[Home]]</corner>
 
@@ -147,13 +147,19 @@ Conclusion about Elastic Time
 <corner>[[Time Shapes->Shapes]]</corner>
 
 :: Shapes-Poop
-Poop Time / Temps biologique / iTamagochi
 
-Cf. Patton Oswalt, 
+<corner> Patton Oswalt, We All Scream, 2022 | [[Next->Shapes-Poop-Tamagochi]] | [[Time Shapes->Shapes]]</corner>
 
-<corner>[[Time Shapes->Shapes]]</corner>
+<video autoplay class="letterbox" src="videos/patton-oswalt-poop.mp4">
+
+:: Shapes-Poop-Tamagochi
+
+<corner>Tamagochi | [[Time Shapes->Shapes]]</corner>
+
+<video autoplay loop class="vertical" src="videos/tamagotchi-poop.mp4">
 
 :: Shapes-Loop
-Groundhog Day / Time loop / Ouroboros / Every Day The Same Dream
 
-<corner>[[Time Shapes->Shapes]]</corner>
+<video autoplay loop class="letterbox" src="videos/groundhog-day.mp4">
+
+<corner>Groundhog Day, 1993 | [[Time Shapes->Shapes]]</corner>
