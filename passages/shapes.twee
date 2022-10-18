@@ -1,13 +1,73 @@
 :: Shapes
-Some interresting time shapes:
+Time has many shapes. Here are some interresting time shapes:
 
-- [[.beat time->Shapes-Beat]]
-- [[Le sucre->Shapes-Bergson]]
-- [[Retention > Impression > Protension->Shapes-Elastic]]
-- [[Poop Time->Shapes-Poop]]
-- [[Groundhog Day->Shapes-Loop]]
+[[.beat time->Shapes-Beat]] | [[Le sucre->Shapes-Bergson]] | [[Retention->Shapes-Retention]] | [[Poop Time->Shapes-Poop]] | [[Groundhog Day->Shapes-Loop]] | [[Real Time->Shapes-Real-Time]] | [[Slow Real Time->Slow-Real-Time]] | [[Relativity->Shapes-Relativity]] | [[Dasein->Shapes-Dasein]] | [[This Mortal Coil->Shapes-Mortal-Coil]] | [[Circadian->Shapes-Circadian]]
 
 <corner>[[Home]]</corner>
+
+:: Shapes-Circadian
+
+<corner>[[Home]]</corner>
+
+:: Shapes-Mortal-Coil
+- To be, or not to be, that is the question:
+- {reveal link: '…', text: 'Whether ‘tis nobler in the mind to suffer'}
+- {reveal link: '…', text: 'The slings and arrows of outrageous fortune,'}
+- {reveal link: '…', text: 'Or to take arms against a sea of troubles'}
+- {reveal link: '…', text: 'And by opposing end them. To die—to sleep,'}
+- {reveal link: '…', text: 'No more; and by a sleep to say we end'}
+- {reveal link: '…', text: 'The heart-ache and the thousand natural shocks'}
+- {reveal link: '…', text: 'That flesh is heir to: ‘tis a consummation'}
+- {reveal link: '…', text: 'Devoutly to be wish‘d. To die, to sleep;'}
+- {reveal link: '…', text: 'To sleep, perchance to dream—ay, there‘s the rub:'}
+- {reveal link: '…', text: 'For in that sleep of death what dreams may come,'}
+- {reveal link: '…', text: 'When we have shuffled off this mortal coil,'}
+- {reveal link: '…', text: 'Must give us pause—'}
+
+{reveal link: '…', text: 'Hamlet, Shakespeare, 1603'}
+
+<image class="fullscreen" src="images/coil-of-rope.png">
+
+<corner>[[Next->Shapes-Mortal-Coil-Game]] | [[Time Shapes->Shapes]]</corner>
+
+:: Shapes-Mortal-Coil-Game
+<video autoplay loop class="letterbox" src="videos/night-in-the-woods.mp4">
+
+<corner>Night in the Woods, Infinite Fall, 2017 | [[Time Shapes->Shapes]]</corner>
+
+:: Shapes-Dasein
+Understanding Heidegger's philosophy of death hinges upon understanding the following key terms, phrases and
+distinctions:
+- (i) Being-at-an-end/Being-towards-an-end
+- (ii) Ownmost, non-relational, and not to be outstripped
+- (iii) They-self/authentic self, falling/fleeing in the face of death, anxiety/fear, potentiality-for-Being: authentic/inauthentic;
+- (iv) inauthentic-Being-towards-death/authentic-Being-towards-death (cf. Gerede, noisiness, bavardage); and
+- (v) freedom twoards death
+
+– Heidegger's Philosophy of Death, Diane Zorn
+
+Game : Journey, That Game Company, 2012
+
+<corner>[[Time Shapes->Shapes]]</corner>
+
+:: Shapes-Relativity
+E = mc²
+
+Game : Superhot
+
+<corner>[[Time Shapes->Shapes]]</corner>
+
+:: Shapes-Real-Time
+Real-Time definition
+
+<corner>[[Time Shapes->Shapes]]</corner>
+
+:: Shapes-Slow-Real-Time
+Definition of Slow Real Time by the Plot research group. La lenteur en temps réel.
+
+Game: Lifeline
+
+<corner>[[Time Shapes->Shapes]]</corner>
 
 :: Shapes-Bergson
 Something about the sucre de Bergson / Duration / sucre qui fond / Lifeline
@@ -21,10 +81,55 @@ Chronological time
 
 <corner>[[Time Shapes->Shapes]]</corner>
 
-:: Shapes-Elastic
-Rétention temporelle (Husserl) / Elastic
+:: Shapes-Retention
 
-<corner>[[Time Shapes->Shapes]]</corner>
+<img src="images/david-hume-time.png">
+
+<corner>David Hume, Treatise of Human Nature, 1739 | [[Lesson->Shapes-Retension-Sound-Of-Music]] | [[Time Shapes->Shapes]]</corner>
+
+:: Shapes-Retension-Sound-Of-Music
+
+<corner>The Sound of Music, Robert Wise, 1965 | [[Next->Shapes-Retention-Perception-Of-Sound]] | [[Time Shapes->Shapes]]</corner>
+
+<video autoplay class="letterbox" src="videos/sound-of-music-do-rae-me.mp4">
+
+:: Shapes-Retention-Perception-Of-Sound
+
+The perception of the sound {reveal link: '…', text: 'in the perception’s ever new now is not a mere having of the sound, even of the sound in the now-phase.'} {reveal link: '…', text: 'On the contrary, we find in each now, in addition to the actual physical content, an adumbration.'}
+
+{reveal link: '…', text: 'If we focus reflectively on what is presently given in the actually present now with respect to the sound of the postilion’s horn'}{reveal link: ',', text: ', or the rumbling of the coach'}{reveal link: ',', text: ', and if we reflect on it just as it is given'}{reveal link: ',', text: ', then we note the trail of memory that extends the now-point of the sound or of the rumbling.'}
+
+{reveal link: '…', text: 'This reflection makes it evident that the immanent thing could not be given in its unity at all if the perceptual consciousness did not also encompass, along with the point of actually present sensation, the continuity of fading phases that pertain to the sensations belonging to earlier nows.'}
+
+{reveal link: '…', text: 'Edmund Husserl, On the Phenomenology of the Consciousness of Internal Time, 1893–1917'}
+
+<corner>[[Next->Shapes-Retention-Impression-Protension]] | [[Time Shapes->Shapes]]</corner>
+
+:: Shapes-Retention-Impression-Protension
+
+At the heart of Husserl’s account is a dynamic tri-partite view of the composition of consciousness at any instant. The three components are: primal **impressions**, **retentions**, **protentions**.
+
+{reveal link: '1.', text: 'Primal **impressions** are the live, actual experiences that occupy the momentary now. No sooner does a primal impression – e.g., a momentary tone-phase – occur than it slips seamlessly into the past. '}
+
+{reveal link: '2.', text: 'But it does not vanish from consciousness altogether: it survives in the form of a **retention**, which presents it as past.'} {reveal link: '…', text: 'For Husserl, retentions are a quite distinctive form of consciousness, and differ significantly from ordinary memories: these are the ‘*adumbrations*’. As new primal impressions dawn – as they gush forth from the *primal source-point of the now* – the initial tone-phase continues to be **retained**, but as increasingly more past, until it fades from consciousness altogether.'} {reveal link: '…', text: 'From then on, it can only be accessed through ordinary memory.'}
+
+{reveal link: '3.', text: 'As for **protentions**, these are the *future-oriented counterparts of retentions*. In some cases – e.g., when we are perceiving or remembering a familiar sequence of events – they can be quite detailed, but often they consist of nothing more than an openness to the future, an expectation that something will come.'}
+
+{reveal link: '-', text: '— Temporal Consciousness, cf. plato.stanford.edu'}
+
+<corner>[[Sound Voyager->Shapes-Retention-Sound-Voyager-Trailer]] | [[Time Shapes->Shapes]]</corner>
+
+:: Shapes-Retention-Sound-Voyager-Trailer
+
+<corner>bit Generations: Soundvoyager, Nintendo, 2006 | [[Playthrough->Shapes-Retention-Sound-Voyager-Demo]] | [[Time Shapes->Shapes]]</corner>
+
+<video autoplay loop src="videos/sound-voyager-trailer.mp4">
+
+:: Shapes-Retention-Sound-Voyager-Demo
+
+<corner>bit Generations: Soundvoyager, Nintendo, 2006 | [[Time Shapes->Shapes]]</corner>
+
+<video autoplay loop src="videos/sound-voyager-gameplay.mp4">
 
 :: Shapes-Elastic-A
 Intro about Elastic Time
@@ -43,6 +148,8 @@ Conclusion about Elastic Time
 
 :: Shapes-Poop
 Poop Time / Temps biologique / iTamagochi
+
+Cf. Patton Oswalt, 
 
 <corner>[[Time Shapes->Shapes]]</corner>
 

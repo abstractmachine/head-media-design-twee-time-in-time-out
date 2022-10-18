@@ -159,7 +159,7 @@ footer em {
 @font-face {
 	font-family: hkgrotesk;
 	font-style: normal;
-	font-weight: 600;
+	font-weight: 700;
 	src:  url('css/fonts/HKGrotesk-Bold.woff2') format('woff2'),
 		  url('css/fonts/HKGrotesk-Bold.woff') format('woff');
 }
@@ -167,7 +167,7 @@ footer em {
 @font-face {
 	font-family: hkgrotesk;
 	font-style: italic;
-	font-weight: 600;
+	font-weight: 700;
 	src:  url('css/fonts/HKGrotesk-BoldItalic.woff2') format('woff2'),
 		  url('css/fonts/HKGrotesk-BoldItalic.woff') format('woff');
 }
@@ -175,7 +175,7 @@ footer em {
 @font-face {
 	font-family: hkgrotesk;
 	font-style: normal;
-	font-weight: 700;
+	font-weight: 800;
 	src:  url('css/fonts/HKGrotesk-ExtraBold.woff2') format('woff2'),
 		  url('css/fonts/HKGrotesk-ExtraBold.woff') format('woff');
 }
@@ -183,7 +183,7 @@ footer em {
 @font-face {
 	font-family: hkgrotesk;
 	font-style: italic;
-	font-weight: 700;
+	font-weight: 800;
 	src:  url('css/fonts/HKGrotesk-ExtraBoldItalic.woff2') format('woff2'),
 		  url('css/fonts/HKGrotesk-ExtraBoldItalic.woff') format('woff');
 }
@@ -191,7 +191,7 @@ footer em {
 @font-face {
 	font-family: hkgrotesk;
 	font-style: normal;
-	font-weight: 800;
+	font-weight: 900;
 	src:  url('css/fonts/HKGrotesk-Black.woff2') format('woff2'),
 		  url('css/fonts/HKGrotesk-Black.woff') format('woff');
 }
@@ -199,7 +199,7 @@ footer em {
 @font-face {
 	font-family: hkgrotesk;
 	font-style: italic;
-	font-weight: 800;
+	font-weight: 900;
 	src:  url('css/fonts/HKGrotesk-BlackItalic.woff2') format('woff2'),
 		  url('css/fonts/HKGrotesk-BlackItalic.woff') format('woff');
 }

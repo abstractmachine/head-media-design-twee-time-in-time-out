@@ -64,13 +64,21 @@
 
 #page video {
 	z-index: -1000;
-    position: fixed;
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+    /* position: fixed;
 	opacity: 1.0;
 	top: 5vw;
 	left: 5vw;
+	width: 50%;
 	max-width: 100%;
 	height: auto;
-    object-fit: contain;
+    object-fit: contain; */
+}
+
+#page video.letterbox {
+	max-width:100%;
 }
 
 #page video::-webkit-media-controls-panel {

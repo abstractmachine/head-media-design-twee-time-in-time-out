@@ -17,7 +17,7 @@ Professor Daniel Miller, UCL
 
 :: About-Page-Four
 
-<video src="https://vimeo.com/245474373?embedded=true&source=video_title&owner=933496"></video>
+<video autoplay loop src="https://vimeo.com/245474373?embedded=true&source=video_title&owner=933496"></video>
 
 <corner>[[Next->About-Page-Five]] | [[Home]]</corner>
 
@@ -272,9 +272,10 @@ src="https://www.youtube.com/watch?v=71u6S7qRFiA&feature=youtu.be">
 
 :: About-Page-Fortyone
 Hyphen Labs 
-<img src="images/page-forty-two-hyphenlabs.jpg"> 
+<img src="images/page-forty-two-hyphenlabs.jpg">
+<corner>[[Next->About-Page-Fortyone-bis]] | [[Home]]</corner>
 
-:: About-Page-Fortyone
+:: About-Page-Fortyone-bis
 As interaction designers, we are often task to create future devices, interactions and scenarios. In this project, we will invent our own wrist devices. Trying to imagine new gestures, new ways to interact with them and place them on our bodies. 
 
 <corner>[[Next->About-Page-Fortytwo]] | [[Home]]</corner>
@@ -286,6 +287,6 @@ As a starting point, we will use time as a game mechanism to create the content 
 
 :: About-Page-Fortythree
 
-<video src="https://www.youtube.com/watch?v=goXh7cGpAII&feature=emb_title"></video>
+<video autoplay loop src="https://www.youtube.com/watch?v=goXh7cGpAII&feature=emb_title"></video>
 
 <corner>[[Home]]</corner>

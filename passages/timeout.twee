@@ -1,7 +1,7 @@
 :: Time Out
 Let's take a time out.
 
-[[Tuttuki Bako->Time-Out-Tuttuki-Bako]] | [[In Time->Time-Out-In-Time]]
+[[Tuttuki Bako->Time-Out-Tuttuki-Bako]] | [[In Time->Time-Out-In-Time]] | [[My Exercise->Time-Out-My-Exercise]] | [[Lifeline->Time-Out-Lifeline]] | [[Everyday The Same Dream->Time-Out-Everyday-The-Same-Dream]] | [[Hermès->Time-Out-Hermes]] | [[Carrier Bag->Time-Out-Carrier-Bag]] | [[Old Watch->Time-Out-Old-Watch]] | [[GPS 1920->Time-Out-GPS-1920]] | [[Seiko TV Watch->Time-Out-Seiko-TV-Watch]] | [[Steve Mann->Time-Out-Steve-Mann]] | [[Thumb->Time-Out-Thumb]]
 
 <corner>[[Home]]</corner>
 
@@ -13,31 +13,29 @@ Let's take a time out.
 
 :: Time-Out-In-Time
 
-<img class="fullscreen" src="images/intime.jpg">
+<corner>In Time, Andrew Niccol, 1991 | [[Time Out]]</corner>
 
-<center>TIMECODE</center>
+<video class="letterbox" autoplay src="videos/in-time.mp4">
 
-<corner>In Time, movie | [[Time Out]]</corner>
+:: Time-Out-My-Exercise
 
-:: Time-Out-My-Exercise 
+<video autoplay loop src="videos/my-exercise.mp4"></video>
 
-<video src="https://www.youtube.com/watch?v=XrrMqaU-NFo"></video>
-
-<corner>My exercise, Playable, Mario von Rickenbach and Michael Frei | [[Time Out]]</corner>
+<corner>My exercise, Playables, Mario von Rickenbach and Michael Frei | [[Time Out]]</corner>
 
 :: Time-Out-Lifeline
 
-<video src="https://www.youtube.com/watch?v=LehoxwX3llo"></video>
+<video autoplay loop src="https://www.youtube.com/watch?v=LehoxwX3llo"></video>
 
 <corner>Lifeline, Three Minute Games  | [[Time Out]]</corner>
 
 :: Time-Out-Everyday-The-Same-Dream 
 
-<video src="https://www.youtube.com/watch?v=P_gdO_-k_hs"></video>
+<video autoplay loop src="https://www.youtube.com/watch?v=P_gdO_-k_hs"></video>
 
 <corner>Everyday the same dream, Silvergames | [[Time Out]]</corner>
 
-:: Time-Out-Everyday-The-Same-Dream 
+:: Time-Out-Hermes 
 
 <img class="fullscreen" src="images/Time-Out-Hermes.jpg">
 
@@ -76,6 +74,6 @@ Let's take a time out.
 
 <img class="fullscreen" src="images/Thumb.jpg">
 
-<corner>Dani Clode | [[Time Out]]</corner>
+<corner>Thumb, Dani Clode | [[Time Out]]</corner>
 
 
